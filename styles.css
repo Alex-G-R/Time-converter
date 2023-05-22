@@ -1,0 +1,29 @@
+body {
+    font-family: Arial;
+    background-color: lightcyan;
+    text-align: center;
+    align-items: center;
+}
+
+.btn {
+    background-color: lightcoral;
+    border: 2px black solid;
+    height: 60px;
+    width: 200px;
+    font-size: 2em;
+    font-weight: 800;
+}
+
+#sum { 
+    background-color: lightslategray;
+    border: 2px black solid;
+    height: 40px;
+    width: 100px;
+    font-size: 1.1em;
+    font-weight: 600
+}
+
+
+
+
+
